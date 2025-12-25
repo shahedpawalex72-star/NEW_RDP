@@ -17,7 +17,7 @@ permissions:
 
 jobs:
   full:
-    runs-on: windows-2019
+    runs-on: windows-2022
     timeout-minutes: 360
 
     env:
